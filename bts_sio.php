@@ -25,7 +25,9 @@
                     <li>Apporter des compétences techniques solides et une culture générale en informatique</li>
                     <li>Permettre une insertion professionnelle rapide ou une poursuite d'études</li>
                 </ul>
-                
+                <a href="https://www.letudiant.fr/etudes/bts/bts-sio-services-informatiques-aux-organisations.html"class="bs-primary-border-subtle">
+                        Toutes les Informations → ICI
+                    </a>
             </div>
         </div>
 
@@ -47,9 +49,12 @@
                     <li>Virtualisation</li>
                 </ul>
                 
-                <p class="text-dark fs-6 mb-5 paragraph-text">
+                <p class="text-dark fs-6 mb-0 paragraph-text">
                     Solutions d'Infrastructure, Systèmes et Réseaux (SISR) forme aux métiers liés à la conception et la maintenance d'infrastructures réseaux, avec un focus important sur la cybersécurité.
                 </p>
+                <a href="https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-services-informatiques-aux-organisations-option-a-solutions-d-infrastructure-systemes-et-reseaux"class="bs-primary-border-subtle">
+                        Pus d'information Ici
+                    </a>
 
                 <h1 class="display-3 fw-light text-primary text-uppercase ls-wide mb-2">
                     SLAM
@@ -69,6 +74,9 @@
                 <p class="text-dark fs-6 mb-0 paragraph-text">
                     Solutions Logicielles et Applications Métiers (SLAM) prépare aux métiers du développement d'applications, avec des compétences en programmation et bases de données.
                 </p>
+                <a href="https://www.onisep.fr/ressources/univers-formation/formations/post-bac/bts-services-informatiques-aux-organisations-option-b-solutions-logicielles-et-applications-metiers"class="bs-primary-border-subtle">
+                        Pus d'information Ici
+                    </a>
                 
             </div>
         </div>
