@@ -32,6 +32,9 @@
             case 'projets':
                 include 'projets.php';
                 break;
+            case 'stages':
+                include 'stages.php';
+                break;
             default:
                 include 'accueil.php';
                 break;

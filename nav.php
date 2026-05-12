@@ -16,6 +16,9 @@
           <a class="nav-link" href="index.php?uc=projets">Projets</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" href="index.php?uc=stages">Stages</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="#">Veille technologique</a>
         </li>
         <li class="nav-item">
