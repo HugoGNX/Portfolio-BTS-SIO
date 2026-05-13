@@ -5,7 +5,7 @@
     </div>
     <div class="row">
         <div class="col-md-3 col-lg-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card card-card hover-lift" style="width: 18rem;">
                 <img src="assets/Millenuit.png" class="card-img-top" alt="logo millenuits">
                 <div class="card-body">
                         <h5 class="card-title">MILLENUITS</h5>
@@ -24,7 +24,7 @@
             </div>
         </div>
         <div class="col-md-3 col-lg-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card card-card hover-lift" style="width: 18rem;">
                 <img src="assets/Millenuit.png" class="card-img-top" alt="logo millenuits">
                 <div class="card-body">
                         <h5 class="card-title">MILLENUITS</h5>
