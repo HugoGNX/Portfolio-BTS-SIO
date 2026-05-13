@@ -35,6 +35,12 @@
             case 'stages':
                 include 'stages.php';
                 break;
+            case 'certifications':
+                include 'certifications.php';
+                break;
+            case 'veille':
+                include 'veille.php';
+                break;
             default:
                 include 'accueil.php';
                 break;

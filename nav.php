@@ -19,10 +19,10 @@
           <a class="nav-link" href="index.php?uc=stages">Stages</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Veille technologique</a>
+          <a class="nav-link" href="index.php?uc=veille">Veille technologique</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Certifications</a>
+          <a class="nav-link" href="index.php?uc=certifications">Certifications</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Contact</a>
